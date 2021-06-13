@@ -1,6 +1,6 @@
 # COMM 12 Final Projects
 
-![comm 12!](https://i.kym-cdn.com/photos/images/facebook/001/440/671/a55)
+![comm 12!](https://github.com/JAVAB3ANS/comm-12-final-projects/blob/master/assets/kermit_hugging_phone.jpg?raw=true)
 
 ## Project 1 - Changes in Technology Use
 
@@ -28,6 +28,8 @@
 - In my opinion, technology makes people smarter if they use it correctly. But if they use it just to cultivate their opinions or to find answers to every question that comes to their mind, it will deprive them of intellectual thought and critical thinking skills.
 
 ## Project 2 - Object of Creation
+ 
+<img alt="project 2" src="https://raw.githubusercontent.com/JAVAB3ANS/comm-12-final-projects/master/assets/cs_server_starterpack_final.png" width="511" height="862">
 
 - **Object of Technology:** My object of technology was social media applications in general, notably Discord, which challenges many people's preconceived notions about online digital networking. As a student in Professor Jeong's COMM 12 course, my project aims to communicate concepts on context collapse and conversation patterns as communication techniques offered over a period of weeks.
 
