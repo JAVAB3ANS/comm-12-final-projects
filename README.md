@@ -1,6 +1,8 @@
 # COMM 12 Final Projects
 
-![comm 12!](https://github.com/JAVAB3ANS/comm-12-final-projects/blob/master/assets/kermit_hugging_phone.jpg?raw=true)
+<p align="center">
+ <img src="https://github.com/JAVAB3ANS/comm-12-final-projects/blob/master/assets/kermit_hugging_phone.jpg?raw=true">
+</p>
 
 ## Project 1 - Changes in Technology Use
 
@@ -29,7 +31,9 @@
 
 ## Project 2 - Object of Creation
  
-<img alt="project 2" src="https://raw.githubusercontent.com/JAVAB3ANS/comm-12-final-projects/master/assets/cs_server_starterpack_final.png" width="511" height="862">
+<p align="center">
+ <img alt="project 2" src="https://raw.githubusercontent.com/JAVAB3ANS/comm-12-final-projects/master/assets/cs_server_starterpack_final.png" width="511" height="862">
+</p>
 
 - **Object of Technology:** My object of technology was social media applications in general, notably Discord, which challenges many people's preconceived notions about online digital networking. As a student in Professor Jeong's COMM 12 course, my project aims to communicate concepts on context collapse and conversation patterns as communication techniques offered over a period of weeks.
 
